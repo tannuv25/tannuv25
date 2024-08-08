@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me contact me on git
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 tannuv25/tannuv25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
