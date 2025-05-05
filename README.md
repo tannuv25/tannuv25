@@ -6,9 +6,9 @@
 
 I thrive in the world of JavaScript and am proficient in the **MERN** stack:
 
-* Frontend: JavaScript (ES6+), React, HTML5, CSS3, 
-* Backend: Node.js, Express.js
-* Database:** MongoDB
+* **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, 
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
 * Other: Git, npm/yarn, RESTful APIs.
 
 - 🚀 Featured Project
