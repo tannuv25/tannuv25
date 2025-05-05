@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @tannuv25
-- 👀 I’m Web developer
+
+- 👀 I'm a passionate web developer with a strong focus on crafting dynamic and user-friendly applications.
+
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact me on git
 - 😄 Pronouns: she/her
