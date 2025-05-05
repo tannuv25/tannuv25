@@ -15,6 +15,9 @@ I thrive in the world of JavaScript and am proficient in the **MERN** stack:
 
 NewsApp: A web application built with React and Rest API to deliver the latest news from various sources.
 
+-🌱 Currently Exploring
+
+I'm currently expanding my knowledge in Node.js fullstack development . I'm also keen on contributing to interesting open-source projects related to React and Express.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact me on git
 - 😄 Pronouns: she/her
