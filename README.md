@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @tannuv25
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m Web developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact me on git
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
 <!---
