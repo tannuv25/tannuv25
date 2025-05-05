@@ -9,7 +9,11 @@ I thrive in the world of JavaScript and am proficient in the **MERN** stack:
 * Frontend: JavaScript (ES6+), React, HTML5, CSS3, 
 * Backend: Node.js, Express.js
 * Database:** MongoDB
-* Other: Git, npm/yarn, RESTful APIs
+* Other: Git, npm/yarn, RESTful APIs.
+
+- 🚀 Featured Project
+
+NewsApp: A web application built with React and Rest API to deliver the latest news from various sources.
 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact me on git
