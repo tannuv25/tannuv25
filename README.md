@@ -33,9 +33,4 @@ I'm always open to connecting with fellow developers, sharing ideas, and explori
 I'm actively seeking opportunities to contribute my skills to exciting projects and collaborate with talented teams. If you have an interesting project or an open position that aligns with my expertise, I'd love to hear from you!
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
-<!---
-tannuv25/tannuv25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
