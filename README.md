@@ -18,8 +18,16 @@ NewsApp: A web application built with React and Rest API to deliver the latest n
 -🌱 Currently Exploring
 
 I'm currently expanding my knowledge in Node.js fullstack development . I'm also keen on contributing to interesting open-source projects related to React and Express.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me contact me on git
+
+- 🤝 Let's Connect!
+
+I'm always open to connecting with fellow developers, sharing ideas, and exploring potential collaborations.
+
+- 📫 How to reach me!
+
+[Linkedin] : 
+
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
