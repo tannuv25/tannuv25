@@ -25,7 +25,7 @@ I'm always open to connecting with fellow developers, sharing ideas, and explori
 
 - 📫 How to reach me!
 
-[Linkedin]:https://www.linkedin.com/in/tannu-verma-460282229/
+**Linkedin**:https://www.linkedin.com/in/tannu-verma-460282229/
 [GitHub]:https://github.com/tannuv25
 
 - ✨ What I'm Looking For
