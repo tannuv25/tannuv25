@@ -28,6 +28,10 @@ I'm always open to connecting with fellow developers, sharing ideas, and explori
 [Linkedin]:https://www.linkedin.com/in/tannu-verma-460282229/
 [GitHub]:https://github.com/tannuv25
 
+- ✨ What I'm Looking For
+
+I'm actively seeking opportunities to contribute my skills to exciting projects and collaborate with talented teams. If you have an interesting project or an open position that aligns with my expertise, I'd love to hear from you!
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
